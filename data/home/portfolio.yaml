@@ -1,0 +1,15 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Small but mighty"
+    title: "Our small size means specific focus"
+    text: "Small isn't always bad. It means we only do work we think is awesome, and we pour ourselves into it from the ground up. Starting with design, through ideation and development."
+
+    buttons: 
+      - label: "Let's Talk"
+        url: "#"
+
+      - label: "Project Examples"
+        url: "#"
